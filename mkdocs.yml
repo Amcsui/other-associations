@@ -1,7 +1,8 @@
-site_name: University of isfahan
+site_name: انجمن های دانشگاه اصفهان
 
 # site_url: https://mydomain.org/mysite
-
+plugins:
+  - section-index
 theme:
   name: material
   language: fa
