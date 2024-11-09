@@ -1,0 +1,7 @@
+site_name: University of isfahan
+
+# site_url: https://mydomain.org/mysite
+
+theme:
+  name: material
+  language: fa
