@@ -6,3 +6,101 @@
 
 خودتون کاربرد انجمن ها و نوع فعالیت ها رو متصور شید.
 
+
+## علوم پایه
+
+- [ریاضی و علوم کامپیوتر](https://t.me/AMCSUI)
+
+- [زیست شناسی](http://zil.ink/ui_biology) 
+
+- [فیزیک](https://t.me/uisaph)
+
+- [آمار](https://t.me/UI_statistics)
+
+- [شیمی](https://t.me/uichemist)
+
+- [زمین شناسی](https://t.me/UIGeology)
+
+## علوم انسانی
+
+- [روان شناسی](https://t.me/UIPSYA)
+
+- [فلسفه](https://t.me/Philosophy_Society_98)
+
+- [حقوق](https://t.me/isflawassociation)
+
+- [مشاوره](https://t.me/UiCounseling) 
+
+- [مدیریت](https://zil.ink/management_ui) 
+
+- [علوم سیاسی](https://t.me/psa_ui) 
+
+- [اقتصاد](https://zil.ink/uieconimics)
+
+- [زبان و ادبیات فارسی](https://t.me/Adabiat_ui) 
+
+- [زبان انگلیسی](https://t.me/Uiela)
+
+- [زبان روسی](https://t.me/russian_ui)
+
+- [زبان چینی](https://t.me/ui_chinese)
+
+- [زبان عربی](https://t.me/anjomanarabiesf)
+
+- [زبان آلمانی](https://t.me/deutschuniesf)
+
+- [زبان فرانسه](https://t.me/asfuiir)
+
+- [حسابداری](https://t.me/ACC_ASS_UI)
+
+- [جامعه شناسی](https://t.me/ui_sociology)
+
+- [علوم تربیتی](https://t.me/educational_ui_esf)
+
+- [فلسفه و کلام اسلامی](https://t.me/Islamicphilosophy_Isfahan)
+
+- [علم اطلاعات و دانش‌شناسی](https://t.me/InfoScienceUi) 
+
+- [گردشگری](https://t.me/tourism_ui)
+
+- [روانشناسی و آموزش کودکان با نیازهای ویژه](https://t.me/uipsy_specialneeds)
+
+- [جغرافیا](https://t.me/Geographyforumisf)
+
+- [تاریخ](https://t.me/Historyui2)
+
+- [علوم قرآن و حدیث](https://t.me/qranhadisesf)
+
+- [معارف](https://t.me/anjoman_elmi_ahlalbeit)
+
+## فنی و مهندسی
+
+- [مهندسی کامپیوتر](https://t.me/ui_sace)
+
+- [مهندسی برق](https://t.me/EESA_UI)
+
+- [مکانیک](https://t.me/ui_mech_eng)
+
+- [هوافضا](https://t.me/AEROSPACEUI) 
+
+- [مهندسی پزشکی](https://t.me/BMEUI)
+
+- [مهندسی شیمی](https://t.me/chemicalengui)
+
+- [مهندسی عمران](https://t.me/ui_anjoman_omran)
+
+- [مهندسی راه آهن](https://t.me/Rwe_Ui)
+
+- [نقشه برداری](https://t.me/UISurv)
+
+
+
+## بین رشته‌ای
+
+- [هوش مصنوعی](https://t.me/uiai_community) 
+
+- [رمز](https://t.me/sbisc)
+
+- [انجمن ACM](https://t.me/ui_acm)
+
+- [رباتیک](https://t.me/UI_RA)
